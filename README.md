@@ -1,4 +1,9 @@
 ## Hi there 👋
+🔭 I’m currently working on a password check for cybersecurity automation
+- 👯 I’m looking to collaborate on any projects!
+- 📫 How to reach me: Email
+- 😄 Pronouns: she/her
+
 
 <!--
 **polkk870/polkk870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
